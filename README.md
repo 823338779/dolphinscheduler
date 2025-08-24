@@ -37,3 +37,8 @@ docker-compose --profile schema up -d
 
 ## 启动所有服务
 docker-compose --profile all up -d
+
+## 默认账密
+admin
+
+dolphinscheduler123
